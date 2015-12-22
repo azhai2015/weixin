@@ -7,6 +7,9 @@ define('SQL_USER', 'sa');
 define('SQL_PASSWORD', 'azsOFT');
 
 return array(
+		'mssql'=>array(
+		     		
+		), 
 		'db'=>array(
 				'host'=>'localhost',
 				'port'=>3306,
