@@ -1,4 +1,11 @@
 <?php
+
+//配置数据库
+define('SQL_SERVER_NAME', '(local)');
+define('SQL_DB_NAME', 'test');
+define('SQL_USER', 'sa');
+define('SQL_PASSWORD', 'azsOFT');
+
 return array(
 		'db'=>array(
 				'host'=>'localhost',
